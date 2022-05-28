@@ -19,5 +19,7 @@ Here you can find out all about our open-source software and API!
 ### Want To Contact Us?
 
 (Preferred) Contact us via our helpcentre - https://socialcabin.co.uk/support
+
 _OR_
+
 Drop us an email under contact@socialcabin.co.uk
