@@ -14,7 +14,7 @@
 Welcome To SocialCabin's GitHub!
 Here you can find out all about our open-source software and API!
 
-**This is still undre construction, so watch this space!**
+**We are still actively developing SocialCabin, so watch this space!**
 
 ### Want To Contact Us?
 
