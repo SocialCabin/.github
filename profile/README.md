@@ -12,8 +12,8 @@
 -->
 And welcome to our home on GitHub! Here you can find documentation, code for any open-source programs or protocols and the downloads & source code for some of our apps. 
 
-## Latest News:
+## 📰 Latest News:
 We are currently still developing the platform but the much anticipated version 1.0B of the platform will be avalible to all members of the platform starting August.
 
-## Reaching Out:
+## 🙌 Reaching Out:
 Want to contact us? Feel free to drop us an email at [contact@socialcabin.co.uk](contact@socialcabin.co.uk) or open a ticket on our support desk over at [https://socialcabin.co.uk/support](https://socialcabin.co.uk/support).
