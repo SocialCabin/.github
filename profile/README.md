@@ -1,4 +1,4 @@
-## Hey there peepos 👋
+# Hey there peepos 👋
 
 <!--
 
@@ -10,16 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+And welcome to our home on GitHub! Here you can find documentation, code for any open-source programs or protocols and the downloads & source code for some of our apps. 
 
-Welcome To SocialCabin's GitHub!
-Here you can find out all about our open-source software and API!
+## Latest News:
+We are currently still developing the platform but the much anticipated version 1.0B of the platform will be avalible to all members of the platform starting August.
 
-**We are still actively developing SocialCabin, so watch this space!**
-
-### Want To Contact Us?
-
-(Preferred) Contact us via our helpcentre - https://socialcabin.co.uk/support
-
-_OR_
-
-Drop us an email under contact@socialcabin.co.uk
+## Reaching Out:
+Want to contact us? Feel free to drop us an email at (contact@socialcabin.co.uk)[contact@socialcabin.co.uk] or open a ticket on our support desk over at (https://socialcabin.co.uk/support)[https://socialcabin.co.uk/support].
