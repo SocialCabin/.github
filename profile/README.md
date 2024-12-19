@@ -1,6 +1,6 @@
 # Hey There 👋
 
-And welcome to our home on GitHub! Here you can find documentation, code for any open-source programs or protocols and the downloads & source code for some of our apps. 
+And welcome to our home on GitHub! Here you can find documentation, code for any open-source programs or protocols and the downloads & source code for some of our apps.
 
 ## 📰 Latest News:
 **[v1.0]** Has been released to all current beta members and applications to become a beta member have now opened! Apply [here](https://socialcabin.atlassian.net/servicedesk/customer/portal/6/group/11/create/54).
