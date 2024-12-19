@@ -1,4 +1,4 @@
-# Hey There Peepos 👋
+# Hey There 👋
 
 And welcome to our home on GitHub! Here you can find documentation, code for any open-source programs or protocols and the downloads & source code for some of our apps. 
 
