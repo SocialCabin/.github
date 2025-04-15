@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Reporting a vulnerability can be done using the vulnerability disclosure tool located on the Security page - **Do Not report vulnerabilities over email**. Please describe the vulnerability in as much detial as possible including the API endpoint where the vulnerability occurs (Or the exact URL if it is on-platform), how exactly it is exploited, what the result of the exploit is (I.E: What did you gain access to, how did it defy the expected behaviour), how you found the exploit and how long you believe it has been in existence (if possible to determine).
+Reporting a vulnerability can be done using the vulnerability disclosure tool located on the Security page (Using the "Report a vulnerability" button above) - **Do Not report vulnerabilities over email**. Please describe the vulnerability in as much detial as possible including the API endpoint where the vulnerability occurs (Or the exact URL if it is on-platform), how exactly it is exploited, what the result of the exploit is (I.E: What did you gain access to, how did it defy the expected behaviour), how you found the exploit and how long you believe it has been in existence (if possible to determine).
 
 Reported vulnerabilities will be responded to within 24-48 hours (depending on the severity) by a member of Senior Management and you can expect an detailed updated within a week.
 
