@@ -16,3 +16,8 @@ _Important Note:_ You are only permitted to participate in the programme if you 
 - Do not perform any actions that could harm the reliability or integrity of our services and data. Some examples of harmful activities that are not permitted include: brute forcing, denial of service (DoS), spamming, timing attacks, etc.
 - Do not use scanners or automated tools to find vulnerabilities.
 - No information about issues found should be publicly disclosed or shared until we've completed our investigation and resolution **and** have explicitly informed you that you are now permitted to disclose the issue or vulnerability found.
+
+## Contacting The Security Team
+Should you have any questions regarding the program and wish to talk to a member of Team SocialCabin, you can email the Systems & Platform Engineering team via email under mt@socialcabin.co.uk
+
+As stated above, please **do not** report vulnerabilities over email.
