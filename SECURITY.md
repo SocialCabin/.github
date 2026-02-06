@@ -6,7 +6,7 @@ Reporting a vulnerability can be done using the vulnerability disclosure tool lo
 
 Reported vulnerabilities will be responded to within 24-48 hours (depending on the severity) by a member of Senior Management and you can expect an detailed update within a week.
 
-Unfortunately, SocialCabin does not currently offer a paid bug bounty programme, but we are grateful and willing to credit any and all vulnerabilities reported provided they have a resonable security threat and are directly related to the SocialCabin platform and not any other third party integration.
+Unfortunately, SocialCabin does not currently offer a paid bug bounty programme, but we are grateful and willing to credit any and all vulnerabilities reported provided they have a reasonable security threat and are directly related to the SocialCabin platform and not any other third party integration.
 
 ### Program Rules
 _Important Note:_ You are only permitted to participate in the programme if you are an active member/participant of the SocialCabin private/public beta. If you have found a vulnerability regardless however, please do still report it.
