@@ -8,7 +8,7 @@ Reported vulnerabilities will be responded to within 24-48 hours (depending on t
 
 Unfortunately, SocialCabin does not currently offer a paid bug bounty programme, but we are grateful and willing to credit any and all vulnerabilities reported provided they have a reasonable security threat and are directly related to the SocialCabin platform and not any other third party integration.
 
-### Program Rules
+### Programme Rules
 _Important Note:_ You are only permitted to participate in the programme if you are an active member/participant of the SocialCabin private/public beta or have explicit permission from Project Management. If you have found a vulnerability regardless however, please do still report it.
 
 - Only use and test on accounts and Cabins you directly own. Testing should never affect other members (users) of the platform.
