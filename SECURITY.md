@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Reporting a vulnerability can be done using the vulnerability disclosure tool located on the Security page (Using the "Report a vulnerability" button above) - **Do Not report vulnerabilities over email**. Please describe the vulnerability in as much detail as possible including: The API endpoint where the vulnerability occurs (Or the exact URL if it is on-platform), how exactly it is exploited, what the result of the exploit is (I.E: What did you gain access to, how did it defy the expected behaviour, etc.), how you found the exploit and how long you believe it has been in existence (if possible to determine).
+Reporting a vulnerability can be done using the vulnerability disclosure tool located on the Security page (Using the "Report a vulnerability" button above) - **Please do not report vulnerabilities over email**. Please describe the vulnerability in as much detail as possible including: The API endpoint where the vulnerability occurs (Or the exact URL if it is on-platform), how exactly it is exploited, what the result of the exploit is (I.E: What did you gain access to, how did it defy the expected behaviour, etc.), how you found the exploit and how long you believe it has been in existence (if possible to determine).
 
 Reported vulnerabilities will be responded to within 24-48 hours (depending on the severity) by a member of Senior Management and you can expect an detailed update within a week.
 
@@ -18,6 +18,6 @@ _Important Note:_ You are only permitted to participate in the programme if you 
 - No information about issues found should be publicly disclosed or shared until we've completed our investigation and resolution **and** have explicitly informed you that you are now permitted to disclose the issue or vulnerability found.
 
 ## Contacting The Security Team
-Should you have any questions regarding the program and wish to talk to a member of Team SocialCabin, you can email the Systems & Platform Engineering team lead via email under mt@socialcabin.co.uk
+Should you have any questions regarding the programme and wish to talk to a member of Team SocialCabin, you can email the Platform Engineering Team lead via email under mt@socialcabin.co.uk
 
 As stated above, please **do not** report vulnerabilities over email.
